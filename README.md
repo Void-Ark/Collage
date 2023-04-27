@@ -1,4 +1,4 @@
-# collage
+# college
 AI ML training projects
 
 this repository contains only projects that i have made in collage AI/ML training.
